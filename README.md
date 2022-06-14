@@ -15,7 +15,7 @@ An example of the final page layout is given in a PSD format. The web page is cr
 
 <div align="center"><img width="500" src="https://user-images.githubusercontent.com/18449614/173597983-42e8f394-6999-4654-ad85-c9e7b28284c4.png" > </div><div align="center"><i></i></div>
 
-<div align="center"><img width="500" src="https://user-images.githubusercontent.com/18449614/173598023-e23a8c8d-3211-4ee6-a485-00ff19c6d2db.png"> </div><div align="center"><i></i></div>
+<div align="center"><img width="500" src="https://user-images.githubusercontent.com/18449614/173598023-e23a8c8d-3211-4ee6-a485-00ff19c6d2db.png"> </div><div align="center"><i>Figure 1: Online Tour and Travel Guide.</i></div>
 
 
 
