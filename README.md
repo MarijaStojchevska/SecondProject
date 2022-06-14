@@ -7,7 +7,7 @@ An example of the final page layout is given in a PSD format. The web page is cr
 
 <div align="center"><img width="500" src="https://user-images.githubusercontent.com/18449614/173597778-d888f740-0b97-49c3-813b-6a6c44333d6f.png"> </div><div align="center"><i></i></div>
 
-<div align="center"><img width="500" src="https://user-images.githubusercontent.com/18449614/173597827-cf691362-a47e-4bda-9b3d-fe4e2c51af2f.png"> </div><div align="center"><i></i></div>
+<div align="center"><img width="500" src="https://user-images.githubusercontent.com/18449614/173598654-1a9199e2-88c6-4d40-bae6-36d398b54c41.png"> </div><div align="center"><i></i></div>
 
 <div align="center"><img width="500" src="https://user-images.githubusercontent.com/18449614/173597883-f6ccf09f-be35-45ad-9a83-c4e53d843c4e.png"> </div><div align="center"><i></i></div>
 
