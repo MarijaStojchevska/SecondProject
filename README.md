@@ -2,7 +2,7 @@
 # Responsive Web Page Compatible for Travel Agencies
 
 <p><div align="justify">
-An example of the final page layout is given in a PSD format. The web page is created with a Hypertext Markup Language (HTML) and its style is defined via CSS which also enables responsive design by including the media queries technique. The аuxiliary images and fonts used to generate a web page template for a travel agency are provided in separate folders.
+An example of the final page layout is given in a PSD format. The web page is created with a Hypertext Markup Language (HTML) and its style is defined via CSS which also enables responsive design by including the media queries technique. The аuxiliary images and fonts used to generate a web page template for a travel agency are provided in separate folders
 </div></p>
 
 <div align="center"><img width="500" src="https://user-images.githubusercontent.com/18449614/173597778-d888f740-0b97-49c3-813b-6a6c44333d6f.png"> </div><div align="center"><i></i></div>
